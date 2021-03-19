@@ -10,5 +10,3 @@
 
 • Transfer learning is widely used since starting from a pretrained models can dramatically reduce the computational time required if training is performed from scratch.
 
-Data Files :-
-
